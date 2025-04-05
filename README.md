@@ -1,5 +1,6 @@
 # 플러터 현재시각 코드
 #### 플러터로 현재시각 1초마다 갱신해서 알려주는 코드
+  ![현재시각](https://github.com/user-attachments/assets/928cabfb-0bd1-40df-8113-782ecbd166a8)
 <pre>
 <code>
   import 'package:flutter/material.dart';
@@ -78,7 +79,6 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 
 </code>
-  ![현재시각](https://github.com/user-attachments/assets/928cabfb-0bd1-40df-8113-782ecbd166a8)
   </pre>
   <hr>
   </hr>
