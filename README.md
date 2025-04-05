@@ -1,4 +1,4 @@
-![현재시각](https://github.com/user-attachments/assets/928cabfb-0bd1-40df-8113-782ecbd166a8)# 플러터 현재시각 코드
+# 플러터 현재시각 코드
 #### 플러터로 현재시각 1초마다 갱신해서 알려주는 코드
 <pre>
 <code>
@@ -81,5 +81,5 @@ class _MyHomePageState extends State<MyHomePage> {
   </pre>
   <hr>
   </hr>
-![Image](https://github.com/user-attachments/assets/56cbafb4-d618-4e66-ba2b-6a14f7873a8a)
+![현재시각](https://github.com/user-attachments/assets/928cabfb-0bd1-40df-8113-782ecbd166a8)
 
